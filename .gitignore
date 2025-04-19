@@ -1,0 +1,17 @@
+# Virtual environment
+venv/
+
+# VS Code settings
+.vscode/
+
+# Model files
+*.pkl
+*.pickle.dat
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Datasets (optional)
+DataFiles/
+online-valid.csv
